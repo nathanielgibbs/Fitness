@@ -145,7 +145,7 @@ footer p {
 	padding: 0 1em;
 }
 
-footer p {
+footer p a {
 	color: #fff;
 	text-decoration: none;
 }
@@ -174,7 +174,7 @@ footer p {
 		border-right: 1px solid #fff;
 	}
 	
-	nav li: last-child; {
+	nav li:last-child {
 		border-right: none;
 	}
 	
